@@ -1,0 +1,99 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.firstImage {
+    width: 700px;
+}
+
+.secondImage {
+    width: 346px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Rye', cursive;
+}
+
+p {
+    font-family: 'Rye', cursive;
+}
+
+.start {
+    font-size: 50px;
+    background-color: beige;
+    font-weight: 800;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.Part-two-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: beige;
+
+}
+
+.punch {
+    width: 900px;
+}
+
+
+.Part-two-no {
+    font-size: 50px;
+    background-color: beige;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.gameover{
+    color: red;
+}
+
+.chicken{
+    width: 900px;
+}
+
+
+.second-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #1e4620;
+    color: white;
+
+}
+
+.fightingImage {
+    width: 700px;
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.meat {
+    width: 900px;
+}
+
+.Part-three-attack {
+    background-color: beige;
+}
+
+.victorypage {
+    background-color: beige;
+}
+
+.meatending {
+    background-color: beige;
+}
+
+.scouteren {
+    width: 900px;
+}
